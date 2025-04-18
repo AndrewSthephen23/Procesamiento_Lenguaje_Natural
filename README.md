@@ -58,9 +58,9 @@
 ##### 3.2 Ejemplo de comando:
 
 ```bash
-docker run -it --rm \
-    -p 8888:8888 \
-    -v /ruta/a/nlp-curso/notebooks:/home/jovyan/work \
+docker run -it --rm `
+    -p 8888:8888 `
+    -v D:\UNI\NOVENO_CICLO\NLP-CURSO\notebooks:/home/jovyan/work `
     mi-imagen-nlp
 ```
 
